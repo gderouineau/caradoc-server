@@ -1,4 +1,4 @@
-var clusterActive = require('../../../config/params/project').data.cluster;
+var clusterActive = require('../../config/params/project').data.cluster;
 
 if(clusterActive){
 
